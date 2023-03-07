@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Fullstack development with Zuri x I4G Cohort 2 program.
-The programming language I learned include Html, CSS, Javascript, Python and Django.
+🌱 I’m currently learning Fullstack development with ALX.
+👯 I’m looking to collaborate on webdevelopment.
 📫 You can reach me at Nadiawellela@gmail.com.
