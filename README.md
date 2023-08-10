@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Fullstack development with ALX.
+🌱 I’m currently learning Software engineering with ALX.
 👯 I’m looking to collaborate on webdevelopment as frontend and python software developer.
 📫 You can reach me at Nadiawellela@gmail.com.
